@@ -1,0 +1,109 @@
+{
+  "guild": "797577985594490896",
+  "role": "966438424145965066",
+  "baseurl": "https://movioid.dojnaz.link",
+  "whmcs": {
+    "client_id": "MOVIO.Ma9H5PlsLAxzFjmgPV805Q==",
+    "client_secret": "Frwhf2/LSK9GQTCMbycCO+V0m9Wyc5+XTT4gNpgljAxGrV5jDp3D67b/fDahqyHiC3msGIl0IIrjUHZyICO/Ew==",
+    "redirect_uri": "https://movioid.dojnaz.link/callback"
+  },
+  "kronosKey": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNzBhMmJlODYwNzlkNTg1ZDM2M2Y4N2Y3NzJlNGU3OGI1NmYyZjFjMmQ0YzBmZjZmNTM5NmZhNWVkYTIxNzA3NWUxNGQ5OWJiZTZkNjZlYzYiLCJpYXQiOjE2NDk0MTUwNzQuNjc2MjAyLCJuYmYiOjE2NDk0MTUwNzQuNjc2MjEzLCJleHAiOjE2ODA5NTEwNzQuNTk3ODUyLCJzdWIiOiIzOTUiLCJzY29wZXMiOltdfQ.ntkZ4VgSHrjH_8RnUVQXv6Bi0HzFmGGdZNcu6hpzeMhWpAIZTWy6cHOtfv6IvAv7Wk_Tdrp4IzNOkkmQd2J9gan9J7V5zFpat-ijXCezgY6_CBXhkFOWs1WB-A7pyPm5g-sYHxX5-pH0uRgY2y4CsluayYD2GxmwvkexBZmSZ9He3T45r7e4pbr41rp8gzsEbdTFD7pfqocm1N47TYEaPjt6EFXdSyHgczag_6z0r3u7TYorOjqnfaelN-F-M5O2wieF0VfxUHkBrlaul246UQqcPUDJda7318VS2tZAGpKVnDVtwexW3kqH0_jYi2CkK3w0UhSiJ0cXpN89X7AvBdZ412RNqbG-wyfNZRyC7SgJDbTjMRAuve_X4FyU3_MSz0ELJenFSX_WfSVS7sZitQ3AoMT-nbD21PVdSKq9-8CS8x0IH5HMqNvyoybRpTgNXWqbJc8vjnoGlK8uUxjL_laTCzNE9zJkEAGEArS5f0lum2Z76f-W6PGapdWHwqxdSmMLIcz0u49yoHCdIR19ygfeHc0Os8JoRy3u8IelxMcZVEramJrJTf2zH70dVTx_dTaEMzgxA0afkkP8ZfAW1CRV6V36fFQaiBrGCNd_vAq3iK2936axRaQeXEPqZ2wU0LVz0MfjHI1gE-2y4FaJEIZx6RNy9AMYRg87M4YUZbY",
+  "superusers": ["887830709434204171", "602451403868340236"],
+  "DISCORD_TOKEN": "OTY1OTg3NTQ3ODI0MTQ0NDQ0.Yl7MAg.HzMHQMO0rSaoo6Vfe7EXnPQ7fs0",
+  "SUPPORT_ROLE": "966438424145965066",
+  "DISABLE_SYNC": true,
+  "products": [
+    {
+      "movioid": "play.e.regular",
+      "whmcsID": "32"
+    },
+    {
+      "movioid": "play.e.plus",
+      "whmcsID": "33"
+    },
+    {
+      "movioid": "play.n.regular",
+      "whmcsID": "8"
+    },
+    {
+      "movioid": "play.n.plus",
+      "whmcsID": "9"
+    },
+    {
+      "movioid": "play.b.regular",
+      "whmcsID": "37"
+    },
+    {
+      "movioid": "play.b.plus",
+      "whmcsID": "39"
+    },
+    {
+      "movioid": "play.s.regular",
+      "whmcsID": "40"
+    },
+    {
+      "movioid": "play.s.plus",
+      "whmcsID": "41"
+    },
+    {
+      "movioid": "ani.1",
+      "whmcsID": "42"
+    },
+    {
+      "movioid": "ani.2",
+      "whmcsID": "43"
+    },
+    {
+      "movioid": "ani.3",
+      "whmcsID": "44"
+    },
+    {
+      "movioid": "box.regular.1",
+      "whmcsID": "1"
+    },
+    {
+      "movioid": "box.regular.2",
+      "whmcsID": "2"
+    },
+    {
+      "movioid": "box.regular.3",
+      "whmcsID": "3"
+    },
+    {
+      "movioid": "box.plus.1",
+      "whmcsID": "4"
+    },
+    {
+      "movioid": "box.plus.2",
+      "whmcsID": "6"
+    },
+    {
+      "movioid": "box.plus.3",
+      "whmcsID": "55"
+    },
+    {
+      "movioid": "kapitel.all.standard",
+      "whmcsID": "10"
+    },
+    {
+      "movioid": "kapitel.all.plus",
+      "whmcsID": "36"
+    },
+    {
+      "movioid": "kapitel.english.standard",
+      "whmcsID": "53"
+    },
+    {
+      "movioid": "kapitel.english.plus",
+      "whmcsID": "54"
+    },
+    {
+      "movioid": "kapitel.swedish.standard",
+      "whmcsID": "51"
+    },
+    {
+      "movioid": "kapitel.swedish.plus",
+      "whmcsID": "52"
+    }
+  ]
+}
